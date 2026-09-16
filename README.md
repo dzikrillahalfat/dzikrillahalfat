@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @dzikrillahalfat
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science on dicoding academy 
-- 📫 How to reach me (https://www.linkedin.com/in/muhammad-dzikrillah-alfathony/)
+# Hi, I'm @dzikrillahalfat 👋
 
+🔍 Business Process & Technology Enthusiast
 
-<!---
-dzikrillahalfat/dzikrillahalfat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I enjoy analyzing how things work, identifying inefficiencies, and finding practical ways to make businesses operate more effectively and efficiently.
+
+My interests include:
+- 📊 Business & Data Analysis
+- ⚙️ Business Process Improvement
+- 🤖 AI & Automation
+- 💻 Web-Based Business Systems
+- 🔗 ERP & System Integration
+- 🚀 Digital Transformation
+
+I believe technology should not make business more complicated — it should make it simpler, faster, and smarter.
+
+📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/muhammad-dzikrillah-alfathony/)
