@@ -14,4 +14,4 @@ My interests include:
 
 I believe technology should not make business more complicated — it should make it simpler, faster, and smarter.
 
-📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/muhammad-dzikrillah-alfathony/)
+📫 [Connect with me on LinkedIn](www.linkedin.com/in/dzikrillah-alfathony)
