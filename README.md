@@ -16,9 +16,13 @@ I enjoy understanding how businesses work, identifying bottlenecks, and turning 
 | Business applications | Internal web tools, training workflows, and document generation |
 | System integration | Connecting operational systems and reporting with data integrity in mind |
 
-## Selected project case studies
+## Public project portfolio
 
-Some projects involve internal company systems or operational data. Their source code and data remain **private**; the summaries below describe the type of problem addressed, not a public demo or a verified business-impact claim.
+**[Explore 10 public project case studies →](portfolio/README.md)**
+
+The public portfolio explains business problems, solution approaches, and technologies without releasing confidential company code, customer data, or production credentials. Some source repositories remain private. Project outcomes are stated only where shareable evidence exists.
+
+## Selected project case studies
 
 | Project | Problem addressed | Approach |
 | --- | --- | --- |
@@ -39,6 +43,6 @@ I focus on choosing tools that fit the problem rather than using technology for 
 
 - 🔒 Internal code, customer records, credentials, and production configurations are **not public portfolio assets**.
 - 📊 Quantified outcomes will be added only when they can be verified and shared appropriately.
-- 🧪 A public demo or sanitized case study will be linked only after its materials are reviewed for disclosure.
+- 🧪 A public demo or sanitized case study is linked only after its materials are reviewed for disclosure.
 
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/dzikrillah-alfathony/)
